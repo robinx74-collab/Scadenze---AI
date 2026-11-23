@@ -1,0 +1,25 @@
+SCADENZE AI PWA
+
+FUNZIONI
+- Home
+- Spese
+- Entrate
+- Scadenze e ricorrenze
+- Segna pagata -> crea spesa
+- Calendario
+- Conti multipli
+- Switch globale per conto
+- Saldo attuale = saldo iniziale + entrate - spese
+- Backup JSON
+- Uso offline dopo il primo caricamento
+
+PER USARLA SU IPHONE
+1. Pubblica questa cartella su un hosting HTTPS.
+2. Apri l'indirizzo in Safari su iPhone.
+3. Tocca Condividi.
+4. Tocca “Aggiungi alla schermata Home”.
+5. Apri Scadenze AI dalla nuova icona.
+
+IMPORTANTE
+I dati sono locali al dispositivo/browser. Usa Backup per esportare/importare.
+Le notifiche quando l'app e' chiusa richiedono un backend Web Push.
